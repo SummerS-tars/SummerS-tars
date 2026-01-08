@@ -1,13 +1,14 @@
-# Summer_Stars
+# README
 
 Thank you for opening my page !  
 You can call me Sum ~  
 
-Study at : Fudan University ;  
-Languages: mostly C/C++ ;  
-Intrests : animation ,  
-           some games like Minecraft , Terraria , Don't Starve ;  
-My E-mail: 2240765672@qq.com ,  
-           23307110192@m.fudan.edu.cn ;  
+- Study at : Fudan University.  
+- Computer Languages: Java, Python, C, C++.  
+- Interests : New to Leetcode, Physical server(for fun),
+    Manga and Animation , Some games like Minecraft.   
+- My E-mail: 
+    - QQ:thesumst@qq.com
+    - fudan mail:23307110192@m.fudan.edu.cn
 
-Welcome to communicate with me about coding , ACG and games !
+Welcome to your communication~.  
